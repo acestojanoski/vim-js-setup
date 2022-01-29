@@ -11,9 +11,9 @@ echo "=============================="
 sudo apt update
 
 echo -e "\n=============================="
-echo "Installing vim..."
+echo "Installing vim and powerline fonts..."
 echo "=============================="
-sudo apt install vim -y
+sudo apt install vim fonts-powerline -y
 
 echo -e "\n=============================="
 echo "Installing vim-plug..."

@@ -33,8 +33,10 @@ let NERDTreeShowHidden=1
 
 "Airline configuration
 let g:airline_theme='gruvbox'
+let g:airline_powerline_fonts = 1
 
 " Theme
 colorscheme gruvbox
 set background=dark
 let g:gruvbox_contrast='hard'
+
